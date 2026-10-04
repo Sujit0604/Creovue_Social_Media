@@ -17,7 +17,7 @@
 
 | Viedoes | Home Feed | Profile Page |
 |---------|-----------|--------------|
-| ![Viedoes]() | ![Home Feed]() | ![Profile]() |
+| ![Viedoes](https://github.com/Sujit0604/Creovue_Social_Media/blob/main/Screenshot%202025-09-15%20210752.png) | ![Home Feed](https://github.com/Sujit0604/Creovue_Social_Media/blob/main/Screenshot%202025-09-15%20210622.png) | ![Profile](https://github.com/Sujit0604/Creovue_Social_Media/blob/main/Screenshot%202025-09-15%20210710.png) |
 
 ---
 
